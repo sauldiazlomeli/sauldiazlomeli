@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Saul Diaz</h1>
 <h3 align="center">My story as a software engineer is one of two loves. First, I fell in love with my wife...then technology. I started my journey as a Soldier in the U.S. Army. Then, after 6 years and a combat tour in Afghanistan, I returned home to a random opportunity that changed the course of my life. I was assigned to a unique project near Death Valley, where I began to explore the infinite world of technology. Thus, my passion for software creation was born, and I've been solving problems with code ever since.</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gifcid=790b7611bcb4f9b9a6d3e755e04d2a7d5ec3b06676ba0339&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 - 🔭 I’m currently working on **3D Animation Front-End**
 
