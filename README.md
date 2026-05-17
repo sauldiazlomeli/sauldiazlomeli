@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking to collaborate on **Community Projects**
 
-- 📫 How to reach me **sauldiazlomeli@yahoo.com**
+- 📫 How to reach me **LinkedIn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
