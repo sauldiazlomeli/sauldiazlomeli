@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Saul Diaz</h1>
 
 ![MasterHead](https://sircltech.com/assets/images/1_OF0xEMkWBv-69zvmNs6RDQ.gif)
-<h3 align="center">My story as an engineer is one of two loves. First, I fell in love with my wife...then technology. I started my journey as a Reconnaissance Soldier in the U.S. Army. Then, after 10 years, including a combat tour in Afghanistan, a random opportunity in California changed the course of my life. My story continued with the Department of Defense, working on a unique Electronic Warfare project near Death Valley; where I began to explore the infinite world of technology. Thus, my passion for software creation was born, and I've been creating new realities with code ever since.</h3>
+<h3 align="center">My story as an engineer is one of two loves. First, I fell in love with my wife...then technology. I started my journey as a Reconnaissance Soldier in the U.S. Army. Then, after 10 years, including a combat tour in Afghanistan, a random opportunity in California changed the course of my life. My story continued with the Department of Defense, working on a unique Electronic Warfare project near Death Valley, I began to explore the infinite world of technology. Thus, my passion for software creation was born, and I've been creating new realities with code ever since.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 - 🔭 I’m currently working on **Cloud Native App Development**
